@@ -1,0 +1,20 @@
+{
+  "name": "mission-forge-pro",
+  "version": "2.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Preliminary spacecraft mission design, RK4 orbit visualization, thermal screening, reliability analysis and collaboration.",
+  "scripts": {
+    "start": "vite --host 0.0.0.0",
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1"
+  }
+}

@@ -2,7 +2,7 @@
 
 Mission Forge is an open-source, browser-based **preliminary spacecraft mission analysis and design workbench**. It combines a mission architecture trade study with transparent analytical calculators, a numerical two-body orbit demonstrator, a single-node thermal equilibrium estimator, reliability screening, fault-tree logic, FMEA prioritization, fault-injection walkthroughs, and optional multi-user collaboration.
 
-> **Engineering and safety boundary:** Mission Forge is not flight-qualified, not a certified spacecraft design tool, and not a substitute for a professional mission-analysis toolchain or independent engineering review. It must not be used as the sole basis for a real mission, safety, procurement, launch, or flight decision. Several models are intentionally idealized. Every result is conditional on the entered assumptions and omitted physics listed below.
+> **Engineering & safety boundary:** Mission Forge is not flight-qualified, not a certified spacecraft design tool, and not a substitute for a professional mission-analysis toolchain or independent engineering review. It must not be used as the sole basis for a real mission, safety, procurement, launch, or flight decision. Several models are intentionally idealized. Every result is conditional on the entered assumptions and omitted physics listed below.
 
 ## What the application does
 
